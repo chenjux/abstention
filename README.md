@@ -10,8 +10,7 @@
 # Abstention Methods in LLMs
 
 ## 1. Pretraining
-- **Instruction Tuning**
-- **Learning from Preferences**
+- **Data augmentation**
 
 ## 2. Alignment
 - **Instruction Tuning**
@@ -21,10 +20,10 @@
 
 ### Input-Processing
 - **Query Processing**: Adapting queries to optimize abstention outcomes.
-- **Probing LLM's Inner State**
-- **Uncertainty Estimation**
 
 ### In-Processing
+- **Probing LLM's Inner State**
+- **Uncertainty Estimation**
 - **Calibration-Based**
 - **Consistency-Based**
 - **Prompting-Based**
