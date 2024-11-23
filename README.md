@@ -251,6 +251,7 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 
 <h3 id="inference-in-processing">In-Processing</h3>
 <h4 id="inference-probing-llms-inner-state">Probing LLM’s inner state</h4>
+
 - **Language models (mostly) know what they know**  
   _Exploring the self-awareness of language models and their ability to recognize their own knowledge._  
   **Conference**: N/A  
