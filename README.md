@@ -249,17 +249,18 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 ---
 
 ### In-Processing
-<h3 id="inference-probing-llms-inner-state">Probing LLM’s inner state</h3>
-<h3 id="inference-uncertainty-estimation">Uncertainty estimation</h3>
-<h3 id="inference-calibration-based">Calibration-Based</h3>
-<h3 id="inference-consistency-based">Consistency-Based</h3>
-<h3 id="inference-prompting-based">Prompting-Based</h3>
+<h3 id="inference-in-processing">In-Processing</h3>
+<h4 id="inference-probing-llms-inner-state">Probing LLM’s inner state</h4>
+<h4 id="inference-uncertainty-estimation">Uncertainty estimation</h4>
+<h4 id="inference-calibration-based">Calibration-Based</h4>
+<h4 id="inference-consistency-based">Consistency-Based</h4>
+<h4 id="inference-prompting-based">Prompting-Based</h4>
 ---
 
-
 ### Output-Processing
-<h3 id="inference-self-evaluation">Self-Evaluation</h3>
-<h3 id="inference-llm-collaboration">LLM Collaboration</h3>
+<h3 id="inference-output-processing">Output-Processing</h3>
+<h4 id="inference-self-evaluation">Self-Evaluation</h4>
+<h4 id="inference-llm-collaboration">LLM Collaboration</h4>
 
 
 
