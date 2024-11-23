@@ -63,7 +63,7 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
   - [Input-Processing](#inference-input-processing)
     - [Query Processing](#inference-query-processing)
   - [In-Processing](#inference-in-processing)
-    - [Probing LLM’s inner state](#inference-probing-llm’s-inner-state)
+    - [Probing LLM’s inner state](#inference-probing-llms-inner-state)
     - [Uncertainty estimation](#inference-uncertainty-estimation)
     - [Calibration-Based](#inference-calibration-based)
     - [Consistency-Based](#inference-consistency-based)
@@ -73,7 +73,6 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
     - [LLM Collaboration](#inference-llm-collaboration)
 
 ---
-
 ## Pretraining
 <h3 id="pretraining">Data augmentation</h3>
 
@@ -132,7 +131,8 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
   **Conference**: ACL 2024  
   [Paper](https://aclanthology.org/2024.findings-acl.776/)
 
-<h3 id="alignment-learning-from-preferences">Learning from Preferences</h3>
+<h3 id="alignment-instruction-tuning">Learning from Preferences</h3>
+
 
 - **Self-alignment for factuality**  
   _Mitigating hallucinations in LLMs via self-evaluation._  
@@ -249,55 +249,21 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 ---
 
 ### In-Processing
-
-<h3 id="inference-probing-llm’s-inner-state">Probing LLM’s inner state</h3>
-
-- **Method**: Confidence Calibration with Temperature Scaling  
-  _ICML 2021_  
-  [[Paper](https://arxiv.org/abs/1706.04599)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
-  
+<h3 id="inference-probing-llms-inner-state">Probing LLM’s inner state</h3>
 <h3 id="inference-uncertainty-estimation">Uncertainty estimation</h3>
-
-- **Method**: Confidence Calibration with Temperature Scaling  
-  _ICML 2021_  
-  [[Paper](https://arxiv.org/abs/1706.04599)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
-  
 <h3 id="inference-calibration-based">Calibration-Based</h3>
-
-- **Method**: Confidence Calibration with Temperature Scaling  
-  _ICML 2021_  
-  [[Paper](https://arxiv.org/abs/1706.04599)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
-
 <h3 id="inference-consistency-based">Consistency-Based</h3>
-
-- **Method**: Consistency Across Prompts  
-  _Paper TBD_  
-  [[Paper](https://linktothepaper.com)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
-
 <h3 id="inference-prompting-based">Prompting-Based</h3>
-
-- **Method**: Strategic Prompt Engineering  
-  _Paper TBD_  
-  [[Paper](https://linktothepaper.com)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
-
 ---
+
 
 ### Output-Processing
 <h3 id="inference-self-evaluation">Self-Evaluation</h3>
-
-- **Method**: LLM Self-Critique for Output Validation  
-  _Paper TBD_  
-  [[Paper](https://linktothepaper.com)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
-
 <h3 id="inference-llm-collaboration">LLM Collaboration</h3>
 
-- **Method**: Multi-Model Collaboration for Abstention  
-  _Paper TBD_  
-  [[Paper](https://linktothepaper.com)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
 
 
-
-## Citation
+<!-- ## Citation
 If you find this repository useful, please cite the following paper:
 ```
 @article{zhang2024comprehensive,
@@ -307,4 +273,4 @@ If you find this repository useful, please cite the following paper:
   pages={8783--8817},
   year={2024}
 }
-```
+``` -->
