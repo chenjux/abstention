@@ -251,6 +251,48 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 
 <h3 id="inference-in-processing">In-Processing</h3>
 <h4 id="inference-probing-llms-inner-state">Probing LLM’s inner state</h4>
+- **Language models (mostly) know what they know**  
+  _Exploring the self-awareness of language models and their ability to recognize their own knowledge._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/pdf/2207.05221)
+
+- **The internal state of an LLM knows when it’s lying**  
+  _How the internal state of LLMs can be used to detect dishonesty._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2304.13734)
+
+- **Inferaligner: Inference-time alignment for harmlessness through cross-model guidance**  
+  _Aligning models during inference for safe and harmless outcomes through cross-model interactions._  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2401.11206) | [GitHub](https://github.com/Jihuai-wpy/InferAligner)
+
+- **Simple and principled uncertainty estimation with deterministic deep learning via distance awareness**  
+  _An approach for uncertainty estimation in deep learning models using distance awareness._  
+  **Conference**: NeurIPS 2020  
+  [Paper](https://arxiv.org/abs/2006.10108) | [GitHub](https://github.com/google/uncertainty-baselines/tree/master/baselines)
+
+- **INSIDE: LLMs’ internal states retain the power of hallucination detection**  
+  _Harnessing the internal states of LLMs to detect hallucinations during language generation._  
+  **Conference**: ICLR 2024  
+  [Paper](https://arxiv.org/abs/2402.03744) | [GitHub](https://github.com/alibaba/eigenscore)
+
+- **Selective question answering under domain shift**  
+  _Improving question answering models’ ability to adapt to shifts in domain._  
+  **Conference**: ACL 2020  
+  [Paper](https://arxiv.org/abs/2006.09462)
+
+- **The curious case of hallucinatory (un)answerability: Finding truths in the hidden states of overconfident large language models**  
+  _Exploring the hidden states of LLMs to uncover truths and reduce hallucinatory responses._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2310.11877) | [GitHub](https://github.com/lovodkin93/unanswerability)
+
+- **Language models are Homer Simpson! Safety re-alignment of fine-tuned language models through task arithmetic**  
+  _Re-aligning fine-tuned language models by adjusting task-specific arithmetic to enhance safety._  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2402.11746) | [GitHub](https://github.com/declare-lab/resta)
+
+---
+
 <h4 id="inference-uncertainty-estimation">Uncertainty estimation</h4>
 <h4 id="inference-calibration-based">Calibration-Based</h4>
 <h4 id="inference-consistency-based">Consistency-Based</h4>
