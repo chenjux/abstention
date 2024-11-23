@@ -7,26 +7,31 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 
-1.	Pretraining:
+# Abstention Methods in LLMs
 
-2.	Alignment:
-	•	Instruction Tuning
-	•	Learning from Preferences
-3.	Inference:
+## 1. Pretraining
+- **Instruction Tuning**
+- **Learning from Preferences**
 
-	•	Input-Processing:
-	    •	Query Processing: Adapting queries to optimize abstention outcomes.
-	    
-   
-	•	In-Processing:
-        •	Probing LLM's inner state
-	    •	Uncertainty estimation
-  	    •	Calibration-based
-	    •	Consistency-based
-	    •	Prompting-Based
-	•	Output-Processing:
-	    •	Self-Evaluation
-	    •	LLM Collaboration
+## 2. Alignment
+- **Instruction Tuning**
+- **Learning from Preferences**
+
+## 3. Inference
+
+### Input-Processing
+- **Query Processing**: Adapting queries to optimize abstention outcomes.
+- **Probing LLM's Inner State**
+- **Uncertainty Estimation**
+
+### In-Processing
+- **Calibration-Based**
+- **Consistency-Based**
+- **Prompting-Based**
+
+### Output-Processing
+- **Self-Evaluation**
+- **LLM Collaboration**
 
 The repository is part of our survey paper [**A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**] 
 <!-- (https://arxiv.org/abs/2406.10833) and will be continuously updated. -->
