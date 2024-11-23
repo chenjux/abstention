@@ -76,48 +76,11 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 
 ---
 
+
+
+
 ## Pretraining
-
-### Instruction Tuning
-- Focuses on adapting LLMs through task-specific instructions.
-
-### Learning from Preferences
-- Leverages user preferences to fine-tune LLM behavior.
-
----
-
-## Alignment
-
-### Instruction Tuning
-- Aligns LLMs to follow instructions that reflect human expectations.
-
-### Learning from Preferences
-- Optimizes models based on preference feedback to enhance alignment.
-
----
-
-## Inference
-
-### Input-Processing
-- **Query Processing**: Adapts queries to optimize abstention outcomes.
-- **Probing LLM's Inner State**: Analyzes the internal mechanisms of LLMs.
-- **Uncertainty Estimation**: Evaluates confidence levels in generated outputs.
-
-### In-Processing
-- **Calibration-Based**: Adjusts LLM confidence to reduce overconfidence.
-- **Consistency-Based**: Ensures stable results across similar prompts.
-- **Prompting-Based**: Utilizes strategic prompts to guide abstention.
-
-### Output-Processing
-- **Self-Evaluation**: Enables LLMs to assess the quality of their responses.
-- **LLM Collaboration**: Integrates multiple models to improve abstention strategies.
-
-
-
-
-
-## General
-<h3 id="general-language">Language</h3>
+<h3 id="pretraining">Language</h3>
 
 - **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
 [[Paper](https://arxiv.org/abs/1903.10676)] [[GitHub](https://github.com/allenai/scibert)] [[Model (Base)](https://huggingface.co/allenai/scibert_scivocab_uncased)]
