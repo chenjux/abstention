@@ -246,21 +246,22 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
   **Conference**: EMNLP 2019  
   [Paper](https://arxiv.org/abs/1908.06083)
 
-<h3 id="inference-probing-llms-inner-state">Probing LLM's Inner State</h3>
-
-- **Example Method**: Probing for Confidence Levels  
-  _Paper TBD_  
-  [[Paper](https://linktothepaper.com)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
-
-<h3 id="inference-uncertainty-estimation">Uncertainty Estimation</h3>
-
-- **Method**: Bayesian Confidence Estimation  
-  _Paper TBD_  
-  [[Paper](https://linktothepaper.com)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
-
 ---
 
 ### In-Processing
+
+<h3 id="inference-Probing-LLM’s-inner-stat">Probing LLM’s inner state</h3>
+
+- **Method**: Confidence Calibration with Temperature Scaling  
+  _ICML 2021_  
+  [[Paper](https://arxiv.org/abs/1706.04599)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
+  
+<h3 id="inference-Uncertainty-estimation">Uncertainty estimation</h3>
+
+- **Method**: Confidence Calibration with Temperature Scaling  
+  _ICML 2021_  
+  [[Paper](https://arxiv.org/abs/1706.04599)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
+  
 <h3 id="inference-calibration-based">Calibration-Based</h3>
 
 - **Method**: Confidence Calibration with Temperature Scaling  
