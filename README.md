@@ -131,7 +131,7 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
   **Conference**: ACL 2024  
   [Paper](https://aclanthology.org/2024.findings-acl.776/)
 
-<h3 id="alignment-instruction-tuning">Learning from Preferences</h3>
+<h3 id="alignment-learning-from-preferences">Learning from Preferences</h3>
 
 
 - **Self-alignment for factuality**  
