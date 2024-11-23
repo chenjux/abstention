@@ -134,10 +134,65 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 
 <h3 id="alignment-learning-from-preferences">Learning from Preferences</h3>
 
-- **RLHF (Reinforcement Learning with Human Feedback)**  
-  _Fine-Tuning Language Models from Human Feedback_  
-  **Conference**: NeurIPS 2020  
-  [[Paper](https://arxiv.org/abs/2009.01325)] [[GitHub](https://github.com/openai/lm-human-preferences)] [[Model](https://huggingface.co/openai/gpt-3)]
+- **Self-alignment for factuality**  
+  _Mitigating hallucinations in LLMs via self-evaluation._  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2402.09267) | [GitHub](https://github.com/zhangxy-2019/Self-Alignment-for-Factuality)
+
+- **Can AI assistants know what they don’t know?**  
+  _Exploring AI's understanding of its limitations._  
+  **Conference**: ICML 2024 (Poster)  
+  [Paper](https://arxiv.org/pdf/2401.13275) | [GitHub](https://github.com/OpenMOSS/Say-I-Dont-Know)
+
+- **Learning to trust your feelings**  
+  _Leveraging self-awareness in LLMs for hallucination mitigation._  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2401.15449) | [GitHub](https://github.com/liangyuxin42/dreamcatcher)
+
+- **Controllable preference optimization**  
+  _Toward controllable multi-objective alignment._  
+  **Conference**: EMNLP 2024  
+  [Paper](https://aclanthology.org/2024.emnlp-main.85.pdf) | [GitHub](https://github.com/OpenBMB/CPO)
+
+- **SafeRLHF**  
+  _Safe reinforcement learning from human feedback._  
+  **Conference**: ICLR 2024  
+  [Paper](https://arxiv.org/pdf/2310.12773) | [GitHub](https://github.com/PKU-Alignment/safe-rlhf)
+
+- **Training a helpful and harmless assistant with reinforcement learning from human feedback**  
+  _Exploring the safe design of AI assistants._  
+  **Conference**: ICLR 2024  
+  [Paper](https://arxiv.org/abs/2310.12773) | [GitHub](https://github.com/PKU-Alignment/safe-rlhf)
+
+- **Flame: Factuality-aware alignment for large language models**  
+  _Addressing factuality in large language models._  
+  **Conference**: NeurIPS 2024  
+  [Paper](https://arxiv.org/abs/2405.01525) | [GitHub](https://github.com/Flame/Alignment)
+
+- **Safe RLHF**  
+  _Safe reinforcement learning from human feedback._  
+  **Conference**: ICLR 2024  
+  [Paper](https://arxiv.org/abs/2310.12773) | [GitHub](https://github.com/PKU-Alignment/safe-rlhf)
+
+- **LLaMA: Open and efficient foundation language models**  
+  _Designing open and efficient foundation models._  
+  **Conference**: (No specific conference listed)  
+  [Paper](https://arxiv.org/abs/2302.13971) | [GitHub](https://github.com/meta-llama/llama)
+
+- **The art of saying no**  
+  _Contextual noncompliance in language models._  
+  **Conference**: NeurIPS 2024  
+  [Paper](https://www.arxiv.org/abs/2407.12043) | [GitHub](https://github.com/allenai/noncompliance)
+
+- **Defending against backdoor attacks in natural language generation**  
+  _Addressing backdoor attacks in natural language models._  
+  **Conference**: (No specific conference listed)  
+  [Paper](https://arxiv.org/abs/2106.01810) | [GitHub](https://github.com/defend-backdoor-attacks)
+
+- **Break the breakout**  
+  _Reinventing LM defense against jailbreak attacks with self-refinement._  
+  **Conference**: AAAI-23  
+  [Paper](https://tianweiz07.github.io/Papers/23-aaai.pdf) | [GitHub](https://github.com/self-refinement-defense)
 
 ---
 
