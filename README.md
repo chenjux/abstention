@@ -55,33 +55,62 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 
 
 ## Contents
-- [General](#general)
-  - [Language](#general-language)
-  - [Language + Graph](#general-language-graph)
-- [Mathematics](#mathematics)
-  - [Language](#mathematics-language)
-  - [Language + Vision](#mathematics-language-vision)
-  - [Other Modalities (Table)](#mathematics-other-modalities-table)
-- [Physics](#physics)
-  - [Language](#physics-language)
-- [Chemistry and Materials Science](#chemistry-and-materials-science)
-  - [Language](#chemistry-language)
-  - [Language + Graph](#chemistry-language-graph)
-  - [Language + Vision](#chemistry-language-vision)
-  - [Other Modalities (Molecule)](#chemistry-other-modalities-molecule)
-- [Biology and Medicine](#biology-and-medicine)
-  - [Language](#biology-language)
-  - [Language + Graph](#biology-language-graph)
-  - [Language + Vision](#biology-language-vision)
-  - [Other Modalities (Protein)](#biology-other-modalities-protein)
-  - [Other Modalities (DNA)](#biology-other-modalities-dna)
-  - [Other Modalities (RNA)](#biology-other-modalities-rna)
-  - [Other Modalities (Multiomics)](#biology-other-modalities-multiomics)
-- [Geography, Geology, and Environmental Science](#geography-geology-and-environmental-science)
-  - [Language](#geography-language)
-  - [Language + Graph](#geography-language-graph)
-  - [Language + Vision](#geography-language-vision)
-  - [Other Modalities (Climate Time Series)](#geography-other-modalities-climate-time-series)
+- [Pretraining](#pretraining)
+  - [Instruction Tuning](#pretraining-instruction-tuning)
+  - [Learning from Preferences](#pretraining-learning-from-preferences)
+- [Alignment](#alignment)
+  - [Instruction Tuning](#alignment-instruction-tuning)
+  - [Learning from Preferences](#alignment-learning-from-preferences)
+- [Inference](#inference)
+  - [Input-Processing](#inference-input-processing)
+    - [Query Processing](#inference-query-processing)
+    - [Probing LLM's Inner State](#inference-probing-llms-inner-state)
+    - [Uncertainty Estimation](#inference-uncertainty-estimation)
+  - [In-Processing](#inference-in-processing)
+    - [Calibration-Based](#inference-calibration-based)
+    - [Consistency-Based](#inference-consistency-based)
+    - [Prompting-Based](#inference-prompting-based)
+  - [Output-Processing](#inference-output-processing)
+    - [Self-Evaluation](#inference-self-evaluation)
+    - [LLM Collaboration](#inference-llm-collaboration)
+
+---
+
+## Pretraining
+
+### Instruction Tuning
+- Focuses on adapting LLMs through task-specific instructions.
+
+### Learning from Preferences
+- Leverages user preferences to fine-tune LLM behavior.
+
+---
+
+## Alignment
+
+### Instruction Tuning
+- Aligns LLMs to follow instructions that reflect human expectations.
+
+### Learning from Preferences
+- Optimizes models based on preference feedback to enhance alignment.
+
+---
+
+## Inference
+
+### Input-Processing
+- **Query Processing**: Adapts queries to optimize abstention outcomes.
+- **Probing LLM's Inner State**: Analyzes the internal mechanisms of LLMs.
+- **Uncertainty Estimation**: Evaluates confidence levels in generated outputs.
+
+### In-Processing
+- **Calibration-Based**: Adjusts LLM confidence to reduce overconfidence.
+- **Consistency-Based**: Ensures stable results across similar prompts.
+- **Prompting-Based**: Utilizes strategic prompts to guide abstention.
+
+### Output-Processing
+- **Self-Evaluation**: Enables LLMs to assess the quality of their responses.
+- **LLM Collaboration**: Integrates multiple models to improve abstention strategies.
 
 
 
