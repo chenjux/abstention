@@ -55,6 +55,7 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 
 ## Contents
 - [Pretraining](#pretraining)
+  - [Data augmentation](#data-augmentation)
 - [Alignment](#alignment)
   - [Instruction Tuning](#alignment-instruction-tuning)
   - [Learning from Preferences](#alignment-learning-from-preferences)
@@ -62,8 +63,8 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
   - [Input-Processing](#inference-input-processing)
     - [Query Processing](#inference-query-processing)
   - [In-Processing](#inference-in-processing)
-    - [Probing LLM’s inner state](#inference-Probing-LLM’s-inner-stat)
-    - [Uncertainty estimation](#inference-Uncertainty-estimation)
+    - [Probing LLM’s inner state](#inference-probing-llm’s-inner-state)
+    - [Uncertainty estimation](#inference-uncertainty-estimation)
     - [Calibration-Based](#inference-calibration-based)
     - [Consistency-Based](#inference-consistency-based)
     - [Prompting-Based](#inference-prompting-based)
@@ -74,7 +75,7 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 ---
 
 ## Pretraining
-<h3 id="pretraining">Pretraining Methods</h3>
+<h3 id="pretraining">Data augmentation</h3>
 
 - **SciBERT**  
   _SciBERT: A Pretrained Model for Scientific Text_  
@@ -84,7 +85,7 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 ---
 
 ## Alignment
-<h3 id="alignment-instruction-tuning">Instruction Tuning</h3>
+<h3 id="alignment">Instruction Tuning</h3>
 
 - **Alignment for Honesty**  
   _Ensuring LLMs provide truthful responses by focusing on alignment._  
@@ -249,13 +250,13 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 
 ### In-Processing
 
-<h3 id="inference-Probing-LLM’s-inner-stat">Probing LLM’s inner state</h3>
+<h3 id="inference-probing-llm’s-inner-state">Probing LLM’s inner state</h3>
 
 - **Method**: Confidence Calibration with Temperature Scaling  
   _ICML 2021_  
   [[Paper](https://arxiv.org/abs/1706.04599)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
   
-<h3 id="inference-Uncertainty-estimation">Uncertainty estimation</h3>
+<h3 id="inference-uncertainty-estimation">Uncertainty estimation</h3>
 
 - **Method**: Confidence Calibration with Temperature Scaling  
   _ICML 2021_  
