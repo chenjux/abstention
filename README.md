@@ -80,31 +80,11 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 
 
 ## Pretraining
-<h3 id="pretraining">Language</h3>
+<h3 id="pretraining">Empty</h3>
 
-- **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
+- **(SciBERT)** _SciBERT: Demo_ ```EMNLP 2019```     
 [[Paper](https://arxiv.org/abs/1903.10676)] [[GitHub](https://github.com/allenai/scibert)] [[Model (Base)](https://huggingface.co/allenai/scibert_scivocab_uncased)]
 
-- **(SciGPT2)** _Explaining Relationships between Scientific Documents_ ```ACL 2021```     
-[[Paper](https://arxiv.org/abs/2002.00317)] [[GitHub](https://github.com/Kel-Lu/SciGen)] [[Model (117M)](https://drive.google.com/file/d/1AoNYnhvI6tensnrpQVc09KL1NWJ5MvFU/view)]
-
-- **(CATTS)** _TLDR: Extreme Summarization of Scientific Documents_ ```EMNLP 2020 Findings```     
-[[Paper](https://arxiv.org/abs/2004.15011)] [[GitHub](https://github.com/allenai/scitldr)] [[Model (406M)](https://storage.cloud.google.com/skiff-models/scitldr/catts-xsum.tldr-aic.pt)]
-
-- **(SciNewsBERT)** _SciClops: Detecting and Contextualizing Scientific Claims for Assisting Manual Fact-Checking_ ```CIKM 2021```     
-[[Paper](https://arxiv.org/abs/2110.13090)] [[Model (Base)](https://huggingface.co/psmeros/SciNewsBERT)]
-
-- **(ScholarBERT)** _The Diminishing Returns of Masked Language Models to Science_ ```ACL 2023 Findings```     
-[[Paper](https://arxiv.org/abs/2205.11342)] [[Model (Large)](https://huggingface.co/globuslabs/ScholarBERT)] [[Model (770M)](https://huggingface.co/globuslabs/ScholarBERT-XL)]
-
-- **(AcademicRoBERTa)** _A Japanese Masked Language Model for Academic Domain_ ```COLING 2022 Workshop```     
-[[Paper](https://aclanthology.org/2022.sdp-1.16)] [[GitHub](https://github.com/EhimeNLP/AcademicRoBERTa)] [[Model (125M)](https://huggingface.co/EhimeNLP/AcademicRoBERTa)]
-
-- **(Galactica)** _Galactica: A Large Language Model for Science_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2211.09085)] [[Model (125M)](https://huggingface.co/facebook/galactica-125m)] [[Model (1.3B)](https://huggingface.co/facebook/galactica-1.3b)] [[Model (6.7B)](https://huggingface.co/facebook/galactica-6.7b)] [[Model (30B)](https://huggingface.co/facebook/galactica-30b)] [[Model (120B)](https://huggingface.co/facebook/galactica-120b)]
-
-- **(DARWIN)** _DARWIN Series: Domain Specific Large Language Models for Natural Science_ ```arXiv 2023```     
-[[Paper](https://arxiv.org/abs/2308.13565)] [[GitHub](https://github.com/MasterAI-EAM/Darwin)] [[Model (7B)](https://aigreendynamics-my.sharepoint.com/:f:/g/personal/yuwei_greendynamics_com_au/Euu1OzZTOS5OsQvVTRNV_gcBa67ehvk6uN6hJIHnBLOkDg?e=x5wxfk)]
 
 - **(FORGE)** _FORGE: Pre-training Open Foundation Models for Science_ ```SC 2023```     
 [[Paper](https://doi.org/10.1145/3581784.3613215)] [[GitHub](https://github.com/at-aaims/forge)] [[Model (1.4B, General)](https://www.dropbox.com/sh/byr1ydik5n1ucod/AADOu_9C6AwVPTThTUFQ7yQba?dl=0)] [[Model (1.4B, Biology/Medicine)](https://www.dropbox.com/sh/41sqapgza3ok9q9/AADLgwTiHVU26ZeW_UQ8apyta?dl=0)] [[Model (1.4B, Chemistry)](https://www.dropbox.com/sh/1jn3n7099r8pzt8/AAAO6sOpFYG-G_qFI6C6CXVVa?dl=0)] [[Model (1.4B, Engineering)](https://www.dropbox.com/sh/ueki0n6y3v8gtkw/AAB6-3ml9slcbOonk6ccdD4Ua?dl=0)] [[Model (1.4B, Materials Science)](https://www.dropbox.com/sh/ngrr3bjulc76944/AABpm_OxA-GQPWzIPM4KpVKOa?dl=0)] [[Model (1.4B, Physics)](https://www.dropbox.com/sh/jxux4tplw5aw7kw/AAAdk334IEMbY7HJlJrWVzyfa?dl=0)] [[Model (1.4B, Social Science/Art)](https://www.dropbox.com/sh/54tuyslytqhpq1z/AAAc65c3TQWo2MyPoSiPxKI2a?dl=0)] [[Model (13B, General)](https://www.dropbox.com/sh/g53ot3dpqfsf6fr/AAB_RFeox2tbDKVFCH0QCw5pa?dl=0)] [[Model (22B, General)](https://www.dropbox.com/sh/7b9gbgcqdyph8v9/AABjNTaYu5PTjTMLb4-t6-PNa?dl=0)]
