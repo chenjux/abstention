@@ -1,20 +1,41 @@
 <!-- # The art of refusal: A survey of abstention in large language models -->
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/chenjux/abstention)
+# Know Your Limits: A Survey of Abstention in Large Language Models
+<!-- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/chenjux/abstention)
 [![Stars](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models?style=social)](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models?style=social)
 
-[![Papers](https://img.shields.io/badge/PaperNumber-266-blue)](https://img.shields.io/badge/PaperNumber-266-blue)
+[![Papers](https://img.shields.io/badge/PaperNumber-266-blue)](https://img.shields.io/badge/PaperNumber-266-blue)-->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 
-A curated list of pre-trained language models in scientific domains (e.g., **mathematics**, **physics**, **chemistry**, **materials science**, **biology**, **medicine**, **geoscience**), covering different model sizes (from **100M** to **100B parameters**) and modalities (e.g., **language**, **graph**, **vision**, **table**, **molecule**, **protein**, **genome**, **climate time series**). 
+1.	Pretraining:
 
-The repository is part of our survey paper [**A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**](https://arxiv.org/abs/2406.10833) and will be continuously updated.
+2.	Alignment:
+	•	Instruction Tuning
+	•	Learning from Preferences
+3.	Inference:
 
-**NOTE 1**: To avoid ambiguity, when we talk about the number of parameters in a model, "Base" refers to 110M (i.e., BERT-Base), and "Large" refers to 340M (i.e., BERT-Large). Other numbers will be written explicitly.
+	•	Input-Processing:
+	    •	Query Processing: Adapting queries to optimize abstention outcomes.
+	    
+   
+	•	In-Processing:
+        •	Probing LLM's inner state
+	    •	Uncertainty estimation
+  	    •	Calibration-based
+	    •	Consistency-based
+	    •	Prompting-Based
+	•	Output-Processing:
+	    •	Self-Evaluation
+	    •	LLM Collaboration
 
-**NOTE 2**: In each subsection, papers are sorted chronologically. If a paper has a preprint (e.g., arXiv or bioRxiv) version, its publication date is according to the preprint service. Otherwise, its publication date is according to the conference proceeding or journal.
+The repository is part of our survey paper [**A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**] 
+<!-- (https://arxiv.org/abs/2406.10833) and will be continuously updated. -->
 
-**NOTE 3**: We appreciate contributions. If you have any suggested papers, feel free to reach out to yuz9@illinois.edu or submit a [pull request](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models/pulls). For format consistency, we will include a paper after (1) it has a version with author names AND (2) its GitHub and/or Hugging Face links are available.
+**NOTE 1**: 
+
+**NOTE 2**: 
+
+**NOTE 3**: We appreciate contributions. If you have any suggested papers, feel free to reach out to chenjux@uw.edu. 
 
 
 
