@@ -295,6 +295,67 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 ---
 
 <h4 id="inference-uncertainty-estimation">Uncertainty estimation</h4>
+
+- **Teaching models to express their uncertainty in words**  
+  _A study on how language models can be taught to express uncertainty in natural language._  
+  **Conference**: TMLR  
+  [Paper](https://arxiv.org/abs/2205.14334)
+
+- **Just ask for calibration: Strategies for eliciting calibrated confidence scores from language models finetuned with human feedback**  
+  _Exploring strategies to elicit calibrated confidence scores from language models fine-tuned with human feedback._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2305.14975)
+
+- **Uncertainty-based abstention in LLMs improves safety and reduces hallucinations**  
+  _A method to improve the safety and reliability of language models by enabling uncertainty-based abstention._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2404.10960)
+
+- **Language models (mostly) know what they know**  
+  _Exploring the self-awareness of language models and their ability to recognize their own knowledge._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/pdf/2207.05221)
+
+- **Shifting attention to relevance: Towards the uncertainty estimation of large language models**  
+  _Focusing on the relevance aspect in uncertainty estimation for large language models._  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2307.01379) | [GitHub](https://github.com/jinhaoduan/SAR)
+
+- **Can LLMs express their uncertainty? An empirical evaluation of confidence elicitation in LLMs**  
+  _An empirical evaluation of how language models can express their uncertainty and confidence._  
+  **Conference**: ICLR 2024  
+  [Paper](https://arxiv.org/abs/2306.13063) | [GitHub](https://github.com/MiaoXiong2320/llm-uncertainty)
+
+- **LLaMAs know what GPTs don’t show: Surrogate models for confidence estimation**  
+  _An exploration of surrogate models for estimating confidence in language models like LLaMA and GPTs._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2311.08877)
+
+- **GPT-4 technical report**  
+  _The technical report on the GPT-4 model, detailing its capabilities and innovations._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2303.08774)
+
+- **Selectively answering ambiguous questions**  
+  _A study on how language models can selectively answer ambiguous questions with confidence._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2305.14613)
+
+- **Semantic uncertainty: Linguistic invariances for uncertainty estimation in natural language generation**  
+  _Focusing on semantic uncertainty and linguistic invariances to improve uncertainty estimation in natural language generation._  
+  **Conference**: ICLR 2023  
+  [Paper](https://arxiv.org/abs/2302.09664)
+
+- **Self-evaluation improves selective generation in large language models**  
+  _How self-evaluation can improve the ability of large language models to generate more selective and accurate outputs._  
+  **Conference**: NeurIPS 2023 Workshops  
+  [Paper](https://arxiv.org/abs/2312.09300)
+
+- **Relying on the unreliable: The impact of language models’ reluctance to express uncertainty**  
+  _Investigating the consequences of language models' reluctance to express uncertainty in their responses._  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2401.06730)
+
 <h4 id="inference-calibration-based">Calibration-Based</h4>
 <h4 id="inference-consistency-based">Consistency-Based</h4>
 <h4 id="inference-prompting-based">Prompting-Based</h4>
