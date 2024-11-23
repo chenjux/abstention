@@ -87,10 +87,50 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 ## Alignment
 <h3 id="alignment-instruction-tuning">Instruction Tuning</h3>
 
-- **FLAN-T5**  
-  _Scaling Instruction Tuning for Natural Language Understanding_  
-  **Conference**: arXiv 2022  
-  [[Paper](https://arxiv.org/abs/2210.11416)] [[GitHub](https://github.com/google-research/t5x)] [[Model (Large)](https://huggingface.co/google/flan-t5-large)]
+- **Alignment for Honesty**  
+  _Ensuring LLMs provide truthful responses by focusing on alignment._  
+  **Conference**: NeurIPS 2024  
+  [Paper](https://arxiv.org/abs/2312.07000) | [GitHub](https://github.com/GAIR-NLP/alignment-for-honesty)
+
+- **R-tuning: Instructing Large Language Models to Say ‘I Don’t Know’**  
+  _Introducing abstention strategies to handle knowledge gaps._  
+  **Conference**: NAACL 2024  
+  [Paper](https://aclanthology.org/2024.naacl-long.394/) | [GitHub](https://github.com/shizhediao/R-Tuning)
+
+- **Keeping LLMs Aligned After Fine-Tuning: The Crucial Role of Prompt Templates**  
+  _Exploring prompt design to maintain alignment post-fine-tuning._  
+  **Conference**: ICLR 2024 R2-FM Workshop Poster  
+  [Paper](https://arxiv.org/abs/2402.18540)
+
+- **The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions**  
+  _Building hierarchies to manage instruction priorities._  
+  **Conference**: --  
+  [Paper](https://arxiv.org/abs/2404.13208)
+
+- **Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration**  
+  _Leveraging multiple LLMs to recognize and manage knowledge gaps._  
+  **Conference**: ACL 2024  
+  [Paper](https://aclanthology.org/2024.acl-long.786.pdf) | [GitHub](https://github.com/BunsenFeng/AbstainQA)
+
+- **Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization**  
+  _Enhancing LLM defenses with prioritized goals._  
+  **Conference**: ACL 2024  
+  [Paper](https://aclanthology.org/2024.acl-long.481/) | [GitHub](https://github.com/thu-coai/JailbreakDefense_GoalPriority)
+
+- **The Art of Saying No: Contextual Noncompliance in Language Models**  
+  _Developing contextual strategies for noncompliance._  
+  **Conference**: NeurIPS 2024 (Track: Datasets and Benchmarks Poster)  
+  [Paper](https://www.arxiv.org/abs/2407.12043) | [GitHub](https://github.com/allenai/noncompliance)
+
+- **Safety-Tuned LLaMAs: Lessons from Improving the Safety of Large Language Models That Follow Instructions**  
+  _Lessons learned from safety tuning large-scale models._  
+  **Conference**: ICLR 2024  
+  [Paper](https://arxiv.org/abs/2309.07875) | [GitHub](https://github.com/vinid/safety-tuned-llamas)
+
+- **The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness**  
+  _Systematic analysis of LLM safety and defensive strategies._  
+  **Conference**: ACL 2024  
+  [Paper](https://aclanthology.org/2024.findings-acl.776/)
 
 <h3 id="alignment-learning-from-preferences">Learning from Preferences</h3>
 
