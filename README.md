@@ -201,9 +201,50 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 ### Input-Processing
 <h3 id="inference-query-processing">Query Processing</h3>
 
-- **Example Method**: Query Optimization for Better Abstention  
-  _Paper TBD_  
-  [[Paper](https://linktothepaper.com)] [[GitHub](https://github.com/example/repo)] [[Model](https://huggingface.co/example)]
+- **Selectively answering ambiguous questions**  
+  _Designing models to handle ambiguity in natural language understanding._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2305.14613)  
+
+- **ONION: A simple and effective defense against textual backdoor attacks**  
+  _A method to defend against textual backdoor attacks in NLP models._  
+  **Conference**: EMNLP 2021  
+  [Paper](https://aclanthology.org/2021.emnlp-main.752.pdf) | [GitHub](https://github.com/thunlp/ONION)
+
+- **Token-level adversarial prompt detection based on perplexity measures and contextual information**  
+  _Detecting adversarial prompts by analyzing token-level perplexity and context._  
+  **Conference**: (No specific conference listed)  
+  [Paper](https://arxiv.org/abs/2311.11509)
+
+- **Defending against backdoor attacks in natural language generation**  
+  _Addressing security issues in natural language generation models._  
+  **Conference**: AAAI 2023  
+  [Paper](https://arxiv.org/abs/2106.01810)
+
+- **Defending pre-trained language models as few-shot learners against backdoor attacks**  
+  _Protection strategies for pre-trained models against backdoor threats in few-shot settings._  
+  **Conference**: NeurIPS 2023  
+  [Paper](https://arxiv.org/abs/2309.13256) | [GitHub](https://github.com/zhaohan-xi/PLM-prompt-defense)
+
+- **Baseline defenses for adversarial attacks against aligned language models**  
+  _Establishing baseline strategies for defending aligned language models from adversarial attacks._  
+  **Conference**: (No specific conference listed)  
+  [Paper](https://arxiv.org/abs/2309.00614)
+
+- **Bddr: An effective defense against textual backdoor attacks**  
+  _A defense mechanism for protecting NLP models from textual backdoor attacks._  
+  **Conference**: (No specific conference listed)  
+  [Paper](https://dl.acm.org/doi/abs/10.1016/j.cose.2021.102433)
+
+- **Certifying LLM safety against adversarial prompting**  
+  _Methods for certifying the safety of large language models against adversarial prompts._  
+  **Conference**: (No specific conference listed)  
+  [Paper](https://arxiv.org/abs/2309.02705)
+
+- **Build it break it fix it for dialogue safety: Robustness from adversarial human attack**  
+  _Improving dialogue model safety by simulating adversarial human attacks._  
+  **Conference**: EMNLP 2019  
+  [Paper](https://arxiv.org/abs/1908.06083)
 
 <h3 id="inference-probing-llms-inner-state">Probing LLM's Inner State</h3>
 
