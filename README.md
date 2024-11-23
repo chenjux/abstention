@@ -198,7 +198,7 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
 
 ## Inference
 
-### Input-Processing
+
 <h3 id="inference-input-processing">Input-Processing</h3>
 <h4 id="inference-query-processing">Query Processing</h4>
 - **Selectively answering ambiguous questions**  
