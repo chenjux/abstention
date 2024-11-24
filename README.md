@@ -9,14 +9,13 @@
 
 # Abstention Methods in LLMs
 
-## 1. Pretraining
-- **Data augmentation**
 
-## 2. Alignment
+
+## 1. Alignment
 - **Instruction Tuning**
 - **Learning from Preferences**
 
-## 3. Inference
+## 2. Inference
 
 ### Input-Processing
 - **Query Processing**: Adapting queries to optimize abstention outcomes.
@@ -72,14 +71,7 @@ The repository is part of our survey paper [**A Comprehensive Survey of Scientif
     - [Self-Evaluation](#inference-self-evaluation)
     - [LLM Collaboration](#inference-llm-collaboration)
 
----
-## Pretraining
-<h3 id="pretraining">Data augmentation</h3>
 
-- **SciBERT**  
-  _SciBERT: A Pretrained Model for Scientific Text_  
-  **Conference**: EMNLP 2019  
-  [[Paper](https://arxiv.org/abs/1903.10676)] [[GitHub](https://github.com/allenai/scibert)] [[Model (Base)](https://huggingface.co/allenai/scibert_scivocab_uncased)]
 
 ---
 
