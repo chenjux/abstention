@@ -18,7 +18,7 @@
 ## 2. Inference
 
 ### Input-Processing
-- **Query Processing**: Adapting queries to optimize abstention outcomes.
+- **Query Processing**
 
 ### In-Processing
 - **Probing LLM's Inner State**
