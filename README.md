@@ -350,6 +350,66 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
   [Paper](https://arxiv.org/abs/2401.06730)
 
 <h4 id="inference-calibration-based">Calibration-Based</h4>
+
+- **Calibrating sequence likelihood improves conditional language generation**  
+  _Improving conditional language generation by calibrating sequence likelihood for better reliability._  
+  **Conference**: ICLR 2023  
+  [Paper](https://arxiv.org/abs/2210.00045)
+
+- **Uncertainty quantification with pre-trained language models: A large-scale empirical analysis**  
+  _An extensive empirical analysis of uncertainty quantification in pre-trained language models._  
+  **Conference**: EMNLP 2022  
+  [Paper](https://arxiv.org/abs/2210.04714)
+
+- **How can we know when language models know? On the calibration of language models for question answering**  
+  _Exploring methods to calibrate language models for improved performance in question answering._  
+  **Conference**: TACL 2021  
+  [Paper](https://arxiv.org/abs/2012.00955) | [GitHub](https://github.com/jzbjyb/lm-calibration)
+
+- **Decomposing uncertainty for large language models through input clarification ensembling**  
+  _Using input clarification ensembling to decompose uncertainty in large language models._  
+  **Conference**: ICML 2024  
+  [Paper](https://arxiv.org/abs/2311.08718) | [GitHub](https://github.com/UCSB-NLP-Chang/llm_uncertainty)
+
+- **Investigating selective prediction approaches across several tasks in IID, OOD, and adversarial settings**  
+  _Analyzing selective prediction approaches under various distribution settings for robustness._  
+  **Conference**: ACL 2022  
+  [Paper](https://arxiv.org/abs/2203.00211)
+
+- **TyDi QA: A benchmark for information-seeking question answering in typologically diverse languages**  
+  _Introducing TyDi QA, a benchmark designed for evaluating question answering in diverse languages._  
+  **Conference**: TACL 2020  
+  [Paper](https://arxiv.org/abs/2003.05002)
+
+- **Reducing conversational agents’ overconfidence through linguistic calibration**  
+  _Exploring linguistic calibration techniques to mitigate overconfidence in conversational agents._  
+  **Conference**: TACL 2022  
+  [Paper](https://arxiv.org/abs/2012.14983)
+
+- **Learning confidence for transformer-based neural machine translation**  
+  _Developing confidence learning mechanisms for neural machine translation models._  
+  **Conference**: ACL 2022  
+  [Paper](https://arxiv.org/abs/2203.11413) | [GitHub](https://github.com/yulu-dada/Learned-conf-NMT)
+
+- **Batchensemble: An alternative approach to efficient ensemble and lifelong learning**  
+  _Proposing BatchEnsemble for efficient ensemble methods and lifelong learning applications._  
+  **Conference**: ICLR 2020  
+  [Paper](https://arxiv.org/abs/2002.06715) | [GitHub](https://github.com/google/edward2)
+
+- **On uncertainty calibration and selective generation in probabilistic neural summarization: A benchmark study**  
+  _Benchmarking uncertainty calibration and selective generation for neural summarization tasks._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2304.08653)
+
+- **Calibration of pre-trained transformers**  
+  _A study on calibrating pre-trained transformers for improved reliability and performance._  
+  **Conference**: EMNLP 2020  
+  [Paper](https://arxiv.org/abs/2003.07892) | [GitHub](https://github.com/shreydesai/calibration)
+
+- **LACIE: Listener-aware finetuning for confidence calibration in large language models**  
+  _Introducing listener-aware finetuning to improve confidence calibration in language models._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2405.21028) | [GitHub](https://github.com/esteng/pragmatic_calibration)
 <h4 id="inference-consistency-based">Consistency-Based</h4>
 <h4 id="inference-prompting-based">Prompting-Based</h4>
 ---
