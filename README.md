@@ -410,7 +410,59 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
   _Introducing listener-aware finetuning to improve confidence calibration in language models._  
   **Conference**: N/A  
   [Paper](https://arxiv.org/abs/2405.21028) | [GitHub](https://github.com/esteng/pragmatic_calibration)
+  
 <h4 id="inference-consistency-based">Consistency-Based</h4>
+
+- **The curious case of hallucinatory (un)answerability: Finding truths in the hidden states of overconfident large language models**  
+  _Exploring the hidden states of overconfident LLMs to uncover hallucinatory (un)answerability._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2310.11877) | [GitHub](https://github.com/lovodkin93/unanswerability)
+
+- **Can LLMs express their uncertainty? An empirical evaluation of confidence elicitation in LLMs**  
+  _Evaluating the ability of large language models to express uncertainty effectively._  
+  **Conference**: ICLR 2024  
+  [Paper](https://arxiv.org/abs/2306.13063) | [GitHub](https://github.com/MiaoXiong2320/llm-uncertainty)
+
+- **Knowing what LLMs DO NOT know: A simple yet effective self-detection method**  
+  _Introducing a self-detection method for large language models to recognize unknowns._  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2310.17918)
+
+- **Generating with confidence: Uncertainty quantification for black-box large language models**  
+  _Developing methods for uncertainty quantification in black-box large language models._  
+  **Conference**: TMLR 2024  
+  [Paper](https://arxiv.org/abs/2305.19187) | [GitHub](https://github.com/zlin7/UQ-NLG)
+
+- **Defending large language models against jailbreak attacks via semantic smoothing**  
+  _Using semantic smoothing techniques to protect LLMs against jailbreak attacks._  
+  **Conference**: ICLR 2024  
+  [Paper](https://arxiv.org/abs/2402.16192) | [GitHub](https://github.com/UCSB-NLP-Chang/SemanticSmooth)
+
+- **Defending against alignment-breaking attacks via robustly aligned LLM**  
+  _Proposing a robust alignment mechanism to counter alignment-breaking attacks._  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2309.14348)
+
+- **Selectively answering ambiguous questions**  
+  _Developing strategies for selective answering to improve handling of ambiguous questions._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2305.14613)
+
+- **RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content**  
+  _Introducing resilient guardrails to prevent undesired content generation in LLMs._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2403.13031) | [GitHub](https://github.com/eurekayuan/RigorLLM)
+
+- **INSIDE: LLMs’ internal states retain the power of hallucination detection**  
+  _Leveraging LLMs' internal states for effective hallucination detection._  
+  **Conference**: ICLR 2024  
+  [Paper](https://arxiv.org/abs/2402.03744) | [GitHub](https://github.com/alibaba/eigenscore)
+
+- **SmoothLLM: Defending large language models against jailbreaking attacks**  
+  _Presenting SmoothLLM as a defense against jailbreak attacks for large language models._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2310.03684) | [GitHub](https://github.com/arobey1/smooth-llm)
+  
 <h4 id="inference-prompting-based">Prompting-Based</h4>
 ---
 
