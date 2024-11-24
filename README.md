@@ -45,7 +45,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 
 <p align="center">
-    <img src="intro.svg" width="90%" style="align:center;"/>
+    <img src="abstention.pdf" width="90%" style="align:center;"/>
 </p>
 
 
