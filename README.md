@@ -618,11 +618,9 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 <!-- ## Citation
 If you find this repository useful, please cite the following paper:
 ```
-@article{zhang2024comprehensive,
+@article{???,
   title={Know Your Limits: A Survey of Abstention in Large Language Models},
-  author={Zhang, Yu and Chen, Xiusi and Jin, Bowen and Wang, Sheng and Ji, Shuiwang and Wang, Wei and Han, Jiawei},
-  booktitle={EMNLP'24},
-  pages={8783--8817},
+  author={Bingbing Wen, Jihan Yao, Shangbin Feng, Chenjun Xu, Yulia Tsvetkov, Bill Howe, Lucy Lu Wang},
   year={2024}
 }
 ``` -->
