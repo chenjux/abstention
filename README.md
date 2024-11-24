@@ -464,20 +464,160 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
   [Paper](https://arxiv.org/abs/2310.03684) | [GitHub](https://github.com/arobey1/smooth-llm)
   
 <h4 id="inference-prompting-based">Prompting-Based</h4>
+
+- **Generating with confidence: Uncertainty quantification for black-box large language models**  
+  _Developing methods to quantify uncertainty in black-box LLMs for improved confidence handling._  
+  **Conference**: TMLR 2024  
+  [Paper](https://arxiv.org/abs/2305.19187) | [GitHub](https://github.com/zlin7/UQ-NLG)
+
+- **The curious case of hallucinatory (un)answerability: Finding truths in the hidden states of overconfident large language models**  
+  _Exploring the hidden states of overconfident LLMs to address hallucinatory and unanswerable cases._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2310.11877) | [GitHub](https://github.com/lovodkin93/unanswerability)
+
+- **Characterizing LLM abstention behavior in science QA with context perturbations**  
+  _Analyzing how LLMs abstain from answering science questions under varying contexts._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2404.12452) | [GitHub](https://github.com/bbwen/llm_scienceqa)
+
+- **Alignment for honesty**  
+  _Ensuring LLMs provide truthful responses by focusing on robust alignment strategies._  
+  **Conference**: NeurIPS 2024  
+  [Paper](https://arxiv.org/abs/2312.07000) | [GitHub](https://github.com/GAIR-NLP/alignment-for-honesty)
+
+- **Can AI assistants know what they don’t know?**  
+  _Proposing methods for AI assistants to recognize and admit their knowledge limitations._  
+  **Conference**: ICML 2024 Poster  
+  [Paper](https://arxiv.org/pdf/2401.13275) | [GitHub](https://github.com/OpenMOSS/Say-I-Dont-Know)
+
+- **Defending large language models against jailbreaking attacks through goal prioritization**  
+  _Employing goal prioritization to mitigate the effects of jailbreaking attacks on LLMs._  
+  **Conference**: ACL 2024  
+  [Paper](https://aclanthology.org/2024.acl-long.481/) | [GitHub](https://github.com/thu-coai/JailbreakDefense_GoalPriority)
+
+- **Intention analysis makes LLMs a good jailbreak defender**  
+  _Using intention analysis to safeguard LLMs against jailbreak attacks._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2401.06561) | [GitHub](https://github.com/alphadl/SafeLLM_with_IntentionAnalysis)
+
+- **Prompt-driven LLM safeguarding via directed representation optimization**  
+  _Optimizing LLM representations to enhance defense mechanisms against adversarial prompts._  
+  **Conference**: ICML 2024  
+  [Paper](https://arxiv.org/abs/2401.18018) | [GitHub](https://github.com/chujiezheng/LLM-Safeguard)
+
+- **Robust prompt optimization for defending language models against jailbreaking attacks**  
+  _Improving prompt designs to safeguard LLMs from jailbreaking attempts._  
+  **Conference**: ICLR 2024 Workshop  
+  [Paper](https://arxiv.org/abs/2401.17263)
+
+- **Defending jailbreak prompts via in-context adversarial game**  
+  _A novel approach using adversarial games to defend against jailbreak prompts._  
+  **Conference**: EMNLP 2024  
+  [Paper](https://arxiv.org/abs/2402.13148)
+
+- **Self-evaluation improves selective generation in large language models**  
+  _Enhancing LLM generation quality by incorporating self-evaluation methods._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2312.09300)
+
+- **Fight back against jailbreaking via prompt adversarial tuning**  
+  _Introducing Prompt Adversarial Tuning (PAT) as a defense against jailbreak attacks._  
+  **Conference**: NeurIPS 2024  
+  [Paper](https://arxiv.org/abs/2402.06255) | [GitHub](https://github.com/PKU-ML/PAT)
+
+- **Bergeron: Combating adversarial attacks through a conscience-based alignment framework**  
+  _Leveraging a conscience-based framework to align LLMs and defend against adversarial attacks._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2312.00029) | [GitHub](https://github.com/matthew-pisano/Bergeron)
+
+- **Jailbreak and guard aligned language models with only few in-context demonstrations**  
+  _Using in-context demonstrations for defending aligned LLMs against jailbreak attacks._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2310.06387) | [GitHub](https://adv-icl.github.io/)
+
+- **Defending ChatGPT against jailbreak attack via self-reminders**  
+  _Introducing self-reminder mechanisms to defend ChatGPT against jailbreak attempts._  
+  **Conference**: Nature  
+  [Paper](https://www.nature.com/articles/s42256-023-00765-8)
+
+- **The art of defending: A systematic evaluation and analysis of LLM defense strategies on safety and over-defensiveness**  
+  _Analyzing defense strategies to balance safety and performance in LLMs._  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2401.00287)
 ---
 
 
 <h3 id="inference-output-processing">Output-Processing</h3>
 <h4 id="inference-self-evaluation">Self-Evaluation</h4>
+
+- **LLM self defense: By self-examination, LLMs know they are being tricked**  
+  _Introducing self-examination techniques to help LLMs recognize and defend against adversarial prompts._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2308.07308)
+
+- **Language models (mostly) know what they know**  
+  _Exploring LLMs' capability to identify their knowledge limits and express uncertainty._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/pdf/2207.05221)
+
+- **The art of defending: A systematic evaluation and analysis of LLM defense strategies on safety and over-defensiveness**  
+  _Evaluating defense strategies for LLMs to balance safety without excessive defensiveness._  
+  **Conference**: ACL 2024  
+  [Paper](https://aclanthology.org/2024.findings-acl.776/)
+
+- **Adaptation with self-evaluation to improve selective prediction in LLMs**  
+  _Enhancing LLM predictions by incorporating self-evaluation to refine selective responses._  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2310.11689)
+
+- **Self-evaluation improves selective generation in large language models**  
+  _Improving LLM output quality through self-evaluation techniques during generation._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2312.09300)
+
+- **I could’ve asked that: Reformulating unanswerable questions**  
+  _Transforming unanswerable questions into answerable forms to improve LLM reliability._  
+  **Conference**: EMNLP 2024  
+  [Paper](https://www.arxiv.org/abs/2407.17469) | [GitHub](https://github.com/wenting-zhao/couldask)
 <h4 id="inference-llm-collaboration">LLM Collaboration</h4>
 
 
+
+- **Reducing conversational agents’ overconfidence through linguistic calibration**  
+  _Using linguistic calibration techniques to reduce overconfidence in conversational agents._  
+  **Conference**: TACL 2022  
+  [Paper](https://arxiv.org/abs/2012.14983)
+
+- **SELF-GUARD: Empower the LLM to safeguard itself**  
+  _A framework to enable LLMs to actively protect themselves against adversarial attacks._  
+  **Conference**: NAACL 2024  
+  [Paper](https://arxiv.org/abs/2310.15851)
+
+- **Bergeron: Combating adversarial attacks through a conscience-based alignment framework**  
+  _Introducing a conscience-based framework to enhance alignment and combat adversarial attacks._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2312.00029) | [GitHub](https://github.com/matthew-pisano/Bergeron)
+
+- **Jailbreaker in jail: Moving target defense for large language models**  
+  _Proposing a moving target defense strategy to protect LLMs from jailbreaking attacks._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2310.02417)
+
+- **Don’t hallucinate, abstain: Identifying LLM knowledge gaps via Multi-LLM collaboration**  
+  _Using collaboration between multiple LLMs to detect and abstain from providing hallucinated answers._  
+  **Conference**: ACL 2024  
+  [Paper](https://aclanthology.org/2024.acl-long.786.pdf) | [GitHub](https://github.com/BunsenFeng/AbstainQA)
+
+- **Autodefense: Multi-agent LLM defense against jailbreak attacks**  
+  _A multi-agent strategy for defending LLMs against jailbreak attacks using coordinated self-defense._  
+  **Conference**: N/A  
+  [Paper](https://arxiv.org/abs/2403.04783) | **Project**: SafeGenAi
 
 <!-- ## Citation
 If you find this repository useful, please cite the following paper:
 ```
 @article{zhang2024comprehensive,
-  title={A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery},
+  title={Know Your Limits: A Survey of Abstention in Large Language Models},
   author={Zhang, Yu and Chen, Xiusi and Jin, Bowen and Wang, Sheng and Ji, Shuiwang and Wang, Wei and Han, Jiawei},
   booktitle={EMNLP'24},
   pages={8783--8817},
