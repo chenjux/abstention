@@ -168,7 +168,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 - **LLaMA: Open and efficient foundation language models**  
   _Designing open and efficient foundation models._  
-  **Conference**: (No specific conference listed)  
+  **Conference**: N/A  
   [Paper](https://arxiv.org/abs/2302.13971) | [GitHub](https://github.com/meta-llama/llama)
 
 - **The art of saying no**  
@@ -178,7 +178,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 - **Defending against backdoor attacks in natural language generation**  
   _Addressing backdoor attacks in natural language models._  
-  **Conference**: (No specific conference listed)  
+  **Conference**: N/A  
   [Paper](https://arxiv.org/abs/2106.01810) | [GitHub](https://github.com/defend-backdoor-attacks)
 
 - **Break the breakout**  
@@ -206,7 +206,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 - **Token-level adversarial prompt detection based on perplexity measures and contextual information**  
   _Detecting adversarial prompts by analyzing token-level perplexity and context._  
-  **Conference**: (No specific conference listed)  
+  **Conference**: N/A  
   [Paper](https://arxiv.org/abs/2311.11509)
 
 - **Defending against backdoor attacks in natural language generation**  
@@ -221,17 +221,17 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 - **Baseline defenses for adversarial attacks against aligned language models**  
   _Establishing baseline strategies for defending aligned language models from adversarial attacks._  
-  **Conference**: (No specific conference listed)  
+  **Conference**: N/A  
   [Paper](https://arxiv.org/abs/2309.00614)
 
 - **Bddr: An effective defense against textual backdoor attacks**  
   _A defense mechanism for protecting NLP models from textual backdoor attacks._  
-  **Conference**: (No specific conference listed)  
+  **Conference**: N/A  
   [Paper](https://dl.acm.org/doi/abs/10.1016/j.cose.2021.102433)
 
 - **Certifying LLM safety against adversarial prompting**  
   _Methods for certifying the safety of large language models against adversarial prompts._  
-  **Conference**: (No specific conference listed)  
+  **Conference**: N/A  
   [Paper](https://arxiv.org/abs/2309.02705)
 
 - **Build it break it fix it for dialogue safety: Robustness from adversarial human attack**  
