@@ -8,7 +8,7 @@
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 
 # Abstention Methods in LLMs
-
+The repository is part of our survey paper [**Know Your Limits: A Survey of Abstention in Large Language Models**] 
 
 
 ## 1. Alignment
@@ -31,7 +31,7 @@
 - **Self-Evaluation**
 - **LLM Collaboration**
 
-The repository is part of our survey paper [**A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**] 
+
 <!-- (https://arxiv.org/abs/2406.10833) and will be continuously updated. -->
 
 **NOTE 1**: 
