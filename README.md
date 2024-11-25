@@ -83,7 +83,6 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 <h3 id="alignment">Instruction Tuning</h3>
 
 - **Alignment for Honesty**  
-
   **Conference**: NeurIPS 2024  
   [Paper](https://arxiv.org/abs/2312.07000) | [GitHub](https://github.com/GAIR-NLP/alignment-for-honesty)
 
