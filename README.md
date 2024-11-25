@@ -10,12 +10,13 @@
 # Abstention Methods in LLMs
 The repository is part of our survey paper [**Know Your Limits: A Survey of Abstention in Large Language Models**] 
 
+## 1. Pretraining
 
-## 1. Alignment
+## 2. Alignment
 - **Instruction Tuning**
 - **Learning from Preferences**
 
-## 2. Inference
+## 3. Inference
 
 ### Input-Processing
 - **Query Processing**
@@ -74,6 +75,8 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 
 ---
+
+## Pretraining
 
 ## Alignment
 <h3 id="alignment">Instruction Tuning</h3>
