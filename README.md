@@ -55,7 +55,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 ## Contents
 - [Pretraining](#pretraining)
-  - [Data augmentation](#data-augmentation)
+
 - [Alignment](#alignment)
   - [Instruction Tuning](#alignment-instruction-tuning)
   - [Learning from Preferences](#alignment-learning-from-preferences)
