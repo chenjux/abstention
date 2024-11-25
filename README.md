@@ -8,7 +8,14 @@
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 
 # Abstention Methods in LLMs
-The repository is part of our survey paper [**Know Your Limits: A Survey of Abstention in Large Language Models**] 
+
+The repository is part of our survey paper [**Know Your Limits: A Survey of Abstention in Large Language Models**](https://arxiv.org/abs/2407.18418) and will be continuously updated.
+
+**NOTE 1**:  
+
+**NOTE 2**:  
+
+**NOTE 3**: We appreciate contributions. If you have any suggested papers, feel free to reach out to [chenjux@uw.edu](mailto:chenjux@uw.edu).
 <!--
 ## 1. Pretraining
 
@@ -33,13 +40,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 - **LLM Collaboration**-->
 
 
-([https://arxiv.org/abs/2406.10833](https://arxiv.org/abs/2407.18418)) and will be continuously updated.
 
-**NOTE 1**: 
-
-**NOTE 2**: 
-
-**NOTE 3**: We appreciate contributions. If you have any suggested papers, feel free to reach out to chenjux@uw.edu. 
 
 
 
