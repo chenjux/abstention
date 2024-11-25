@@ -11,7 +11,7 @@
 
 The repository is part of our survey paper [**Know Your Limits: A Survey of Abstention in Large Language Models**](https://arxiv.org/abs/2407.18418) and will be continuously updated.
 
-**NOTE 1**:  
+**NOTE 1**: The current order of papers follows the sequence in which they appear in our survey paper. Future papers will be added in chronological order.
 
 **NOTE 2**:  
 
