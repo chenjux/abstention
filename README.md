@@ -9,7 +9,7 @@
 
 # Abstention Methods in LLMs
 The repository is part of our survey paper [**Know Your Limits: A Survey of Abstention in Large Language Models**] 
-
+<!--
 ## 1. Pretraining
 
 ## 2. Alignment
@@ -30,10 +30,10 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 ### Output-Processing
 - **Self-Evaluation**
-- **LLM Collaboration**
+- **LLM Collaboration**-->
 
 
-<!-- (https://arxiv.org/abs/2406.10833) and will be continuously updated. -->
+([https://arxiv.org/abs/2406.10833](https://arxiv.org/abs/2407.18418)) and will be continuously updated.
 
 **NOTE 1**: 
 
