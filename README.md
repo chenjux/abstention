@@ -618,12 +618,13 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
   **Conference**: N/A  
   [Paper](https://arxiv.org/abs/2403.04783) | **Project**: SafeGenAi
 
-<!-- ## Citation
+## Citation
 If you find this repository useful, please cite the following paper:
 ```
-@article{???,
+@article{wen2024know,
   title={Know Your Limits: A Survey of Abstention in Large Language Models},
-  author={Bingbing Wen, Jihan Yao, Shangbin Feng, Chenjun Xu, Yulia Tsvetkov, Bill Howe, Lucy Lu Wang},
+  author={Wen, Bingbing and Yao, Jihan and Feng, Shangbin and Xu, Chenjun and Tsvetkov, Yulia and Howe, Bill and Wang, Lucy Lu},
+  journal={arXiv preprint arXiv:2407.18418},
   year={2024}
 }
-``` -->
+```
