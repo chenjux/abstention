@@ -85,42 +85,34 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
   [Paper](https://arxiv.org/abs/2312.07000) | [GitHub](https://github.com/GAIR-NLP/alignment-for-honesty)
 
 - **R-tuning: Instructing Large Language Models to Say ‘I Don’t Know’**  
-
   **Conference**: NAACL 2024  
   [Paper](https://aclanthology.org/2024.naacl-long.394/) | [GitHub](https://github.com/shizhediao/R-Tuning)
 
 - **Keeping LLMs Aligned After Fine-Tuning: The Crucial Role of Prompt Templates**  
-
   **Conference**: ICLR 2024 R2-FM Workshop Poster  
   [Paper](https://arxiv.org/abs/2402.18540)
 
 - **The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions**  
-
   **Conference**: --  
   [Paper](https://arxiv.org/abs/2404.13208)
 
 - **Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration**  
-
   **Conference**: ACL 2024  
   [Paper](https://aclanthology.org/2024.acl-long.786.pdf) | [GitHub](https://github.com/BunsenFeng/AbstainQA)
 
 - **Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization**  
-
   **Conference**: ACL 2024  
   [Paper](https://aclanthology.org/2024.acl-long.481/) | [GitHub](https://github.com/thu-coai/JailbreakDefense_GoalPriority)
 
 - **The Art of Saying No: Contextual Noncompliance in Language Models**  
-
   **Conference**: NeurIPS 2024 (Track: Datasets and Benchmarks Poster)  
   [Paper](https://www.arxiv.org/abs/2407.12043) | [GitHub](https://github.com/allenai/noncompliance)
 
 - **Safety-Tuned LLaMAs: Lessons from Improving the Safety of Large Language Models That Follow Instructions**  
-
   **Conference**: ICLR 2024  
   [Paper](https://arxiv.org/abs/2309.07875) | [GitHub](https://github.com/vinid/safety-tuned-llamas)
 
 - **The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness**  
-
   **Conference**: ACL 2024  
   [Paper](https://aclanthology.org/2024.findings-acl.776/)
   
@@ -130,12 +122,10 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 
 - **Self-alignment for factuality**  
-
   **Conference**: ACL 2024  
   [Paper](https://arxiv.org/abs/2402.09267) | [GitHub](https://github.com/zhangxy-2019/Self-Alignment-for-Factuality)
 
 - **Can AI assistants know what they don’t know?**  
- 
   **Conference**: ICML 2024 (Poster)  
   [Paper](https://arxiv.org/pdf/2401.13275) | [GitHub](https://github.com/OpenMOSS/Say-I-Dont-Know)
 
