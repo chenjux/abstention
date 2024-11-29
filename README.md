@@ -46,7 +46,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
   - [Query](#query)
   - [Model](#model)
   - [Human Values](#human-values)
-
+  - [General](#general)
 ---
 
 ## Pretraining
@@ -538,10 +538,84 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 <h3 id="model">Model</h3>
 
+- **RealTimeQA: What’s the answer right now?**  
+  **Conference**: NeurIPS 2023  
+  [Paper](https://arxiv.org/abs/2207.13332) | [Website](https://realtimeqa.github.io/)  
 
+- **PUQA: A dataset of out-of-knowledge questions for scientific literature**  
+  **Conference**: Nature  
+  [Paper](https://arxiv.org/html/2407.09413) | [GitHub](https://github.com/google/spiqa)  
+
+- **Don’t hallucinate, abstain: Identifying LLM knowledge gaps via Multi-LLM collaboration**  
+  **Conference**: ACL 2024  
+  [Paper](https://aclanthology.org/2024.acl-long.786.pdf) | [GitHub](https://github.com/BunsenFeng/AbstainQA)  
+
+- **POPQA: A question answering dataset on long-tail entities**  
+  **Conference**: ACL 2023  
+  [Paper](https://arxiv.org/html/2405.06524v1) | [GitHub](https://github.com/AlexTMallen/adaptive-retrieval)  
+
+- **Simple entity-centric questions challenge dense retrievers**  
+  **Conference**: EMNLP 2021  
+  [Paper](https://arxiv.org/abs/2109.08535) | [GitHub](https://github.com/princeton-nlp/EntityQuestions)  
 
 <h3 id="human-values">Human Values</h3>
 
+- **RealToxicityPrompts: Evaluating neural toxic degeneration in language models**  
+  **Conference**: EMNLP 2020  
+  [Paper](https://arxiv.org/abs/2009.11462) | [Website](https://toxicdegeneration.allenai.org/)  
+
+- **ToxiGen: A large-scale machine-generated dataset for adversarial and implicit hate speech detection**  
+  **Conference**: ACL 2022  
+  [Paper](https://arxiv.org/abs/2203.09509) | [GitHub](https://github.com/microsoft/ToxiGen)  
+
+- **Latent Hatred: A Benchmark for Understanding Implicit Hate Speech**  
+  **Conference**: EMNLP 2021  
+  [Paper](https://arxiv.org/abs/2109.05322) | [GitHub](https://github.com/SALT-NLP/implicit-hate)  
+
+- **ToxicChat: Unveiling Hidden Challenges of Toxicity Detection in Real-World User-AI Conversation**  
+  **Conference**: EMNLP 2023  
+  [Paper](https://arxiv.org/abs/2310.17389) | [Dataset](https://huggingface.co/datasets/lmsys/toxic-chat)  
+
+- **Beavertails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**  
+  **Conference**: NeurIPS 2023  
+  [Paper](https://arxiv.org/abs/2307.04657) | [Website](https://sites.google.com/view/pku-beavertails)  
+
+- **CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility**  
+  [Paper](https://arxiv.org/abs/2307.09705) | [Dataset](https://www.modelscope.cn/datasets/damo/CValues-Comparison/summary)  
+
+- **Xstest: A Test Suite for Identifying Exaggerated Safety Behaviors in Large Language Models**  
+  **Conference**: NAACL 2024  
+  [Paper](https://arxiv.org/abs/2308.01263) | [GitHub](https://github.com/paul-rottger/exaggerated-safety)  
+
+- **LatentJailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models**  
+  [Paper](https://arxiv.org/abs/2307.08487) | [GitHub](https://github.com/qiuhuachuan/latent-jailbreak)  
+
+- **Do Anything Now: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models**  
+  [Paper](https://arxiv.org/abs/2308.03825) | [GitHub](https://github.com/verazuo/jailbreak_llms)  
+
+- **Do-Not-Answer: Evaluating Safeguards in LLMs**  
+  **Conference**: EACL 2024  
+  [Paper](https://arxiv.org/abs/2308.13387) | [GitHub](https://github.com/Libr-AI/do-not-answer)  
+
+- **XSafety: A Multilingual Benchmark for Safety Refusal of Large Language Models**  
+  [Paper](https://arxiv.org/abs/2310.00905) | [GitHub](https://github.com/Jarviswang94/Multilingual_safety_benchmark)  
+
+- **SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2402.05044) | [GitHub](https://github.com/OpenSafetyLab/SALAD-BENCH)  
+
+- **SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors**  
+  [Paper](https://arxiv.org/abs/2406.14598) | [Website](https://sorry-bench.github.io/)  
+
+- **WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs**  
+  [Paper](https://arxiv.org/abs/2406.18495) | [GitHub](https://github.com/allenai/wildguard)
+
+
+<h3 id="general">General</h3>
+
+- **The art of saying no: Contextual noncompliance in language models**  
+  **Conference**: NeurIPS 2024 Track Datasets and Benchmarks Poster  
+  [Paper](https://www.arxiv.org/abs/2407.12043) | [GitHub](https://github.com/allenai/noncompliance)  
 
 
 ## Citation
