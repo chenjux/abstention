@@ -42,7 +42,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
     - [Self-Evaluation](#inference-self-evaluation)
     - [LLM Collaboration](#inference-llm-collaboration)
 
-- [Abstention evaluation benchmarks](#abstention—evaluation-benchmarks)
+- [Abstention evaluation benchmarks](#abstention-evaluation-benchmarks)
   - [Query](#query)
   - [Model](#model)
   - [Human Values](#human-values)
@@ -492,7 +492,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
   [Paper](https://arxiv.org/abs/2403.04783) | **Project**: SafeGenAi
 
 
-<h4 id="abstention-evaluation-benchmarks">Abstention Evaluation Benchmarks</h4>
+<h2 id="abstention—evaluation-benchmarks">Abstention Evaluation Benchmarks</h2>
 <h3 id="query">Query</h3>
 <h3 id="model">Model</h3>
 <h3 id="human-values">Human Values</h3>
