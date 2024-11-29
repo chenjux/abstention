@@ -14,35 +14,6 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 **NOTE 1**: The current order of papers follows the sequence in which they appear in our survey paper. Future papers will be added in chronological order.
 
 **NOTE 2**: We appreciate contributions. If you have any suggested papers, feel free to reach out to [chenjux@uw.edu](mailto:chenjux@uw.edu) or submit a pull request.
-<!--
-## 1. Pretraining
-
-## 2. Alignment
-- **Instruction Tuning**
-- **Learning from Preferences**
-
-## 3. Inference
-
-### Input-Processing
-- **Query Processing**
-
-### In-Processing
-- **Probing LLM's Inner State**
-- **Uncertainty Estimation**
-- **Calibration-Based**
-- **Consistency-Based**
-- **Prompting-Based**
-
-### Output-Processing
-- **Self-Evaluation**
-- **LLM Collaboration**-->
-
-
-
-
-
-
-
 
 <p align="center">
     <img src="abstention.png" width="90%" style="align:center;"/>
@@ -71,7 +42,10 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
     - [Self-Evaluation](#inference-self-evaluation)
     - [LLM Collaboration](#inference-llm-collaboration)
 
-
+- [Abstention evaluation benchmarks](#abstention—evaluation-benchmarks)
+  - [Query](#query)
+  - [Model](#model)
+  - [Human Values](#human-values)
 
 ---
 
@@ -516,6 +490,11 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 - **Autodefense: Multi-agent LLM defense against jailbreak attacks**  
   **Conference**: N/A  
   [Paper](https://arxiv.org/abs/2403.04783) | **Project**: SafeGenAi
+
+## Abstention Evaluation Benchmarks
+<h3 id="query">Query</h3>
+<h3 id="model">Model</h3>
+<h3 id="human-values">Human Values</h3>
 
 ## Citation
 If you find this repository useful, please cite the following paper:
