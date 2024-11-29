@@ -491,7 +491,8 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
   **Conference**: N/A  
   [Paper](https://arxiv.org/abs/2403.04783) | **Project**: SafeGenAi
 
-## Abstention Evaluation Benchmarks
+
+<h2 id="abstention-evaluation-benchmarks">Abstention Evaluation Benchmarks</h2>
 <h3 id="query">Query</h3>
 <h3 id="model">Model</h3>
 <h3 id="human-values">Human Values</h3>
