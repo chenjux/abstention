@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 
-# Abstention Methods in LLMs
+# Abstention Methods & Benchmarks in LLMs
 
 The repository is part of our survey paper [**Know Your Limits: A Survey of Abstention in Large Language Models**](https://arxiv.org/abs/2407.18418) and will be continuously updated.
 
@@ -493,9 +493,56 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
 
 
 <h2 id="abstention—evaluation-benchmarks">Abstention Evaluation Benchmarks</h2>
+
 <h3 id="query">Query</h3>
+
+- **Know what you don’t know: Unanswerable questions for SQuAD**  
+  **Conference**: ACL 2018  
+  [Paper](https://arxiv.org/abs/1806.03822) | [Worksheet](https://worksheets.codalab.org/worksheets/0x9a15a170809f4e2cb7940e1f256dee55/)  
+
+- **Natural Questions: A benchmark for question answering research**  
+  **Conference**: TACL 2019  
+  [Paper](https://aclanthology.org/Q19-1026/) | [Website](https://ai.google.com/research/NaturalQuestions)  
+
+- **MuSiQue: Multihop questions via single-hop question composition**  
+  **Conference**: TACL 2022  
+  [Paper](https://arxiv.org/pdf/2108.00573) | [GitHub](https://github.com/stonybrooknlp/musique)  
+
+- **CoQA: A conversational question answering challenge**  
+  **Conference**: TACL 2019  
+  [Paper](https://arxiv.org/abs/1808.07042) | [Website](https://stanfordnlp.github.io/coqa/)  
+
+- **QuAC: Question answering in context**  
+  **Conference**: ACL 2018  
+  [Paper](https://arxiv.org/abs/1808.07036) | [Website](https://quac.ai/)  
+
+- **AmbigQA: Answering ambiguous open-domain questions**  
+  **Conference**: EMNLP 2020  
+  [Paper](https://arxiv.org/abs/2004.10645) | [Website](https://nlp.cs.washington.edu/ambigqa/)  
+
+- **SituatedQA: Incorporating extra-linguistic contexts into QA**  
+  **Conference**: EMNLP 2021  
+  [Paper](https://arxiv.org/abs/2109.06157) | [Website](https://situatedqa.github.io/)  
+
+- **Do large language models know what they don’t know?**  
+  **Conference**: ACL 2023  
+  [Paper](https://arxiv.org/abs/2305.18153) | [GitHub](https://github.com/yinzhangyue/SelfAware)  
+
+- **Known Unknown Questions: A new dataset for large language models**  
+  **Conference**: ACL 2024  
+  [Paper](https://arxiv.org/abs/2305.13712) | [GitHub](https://github.com/amayuelas/knowledge-of-knowledge)  
+
+- **PubMedQA: A dataset for biomedical research question answering**  
+  **Conference**: EMNLP 2019  
+  [Paper](https://arxiv.org/abs/1909.06146) | [Website](https://pubmedqa.github.io/)  
+
 <h3 id="model">Model</h3>
+
+
+
 <h3 id="human-values">Human Values</h3>
+
+
 
 ## Citation
 If you find this repository useful, please cite the following paper:
