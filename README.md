@@ -9,11 +9,11 @@
 
 # Abstention Methods & Benchmarks in LLMs
 
-The repository is part of our survey paper [**Know Your Limits: A Survey of Abstention in Large Language Models**](https://arxiv.org/abs/2407.18418) and will be continuously updated.
+<!--The repository is part of our survey paper [**Know Your Limits: A Survey of Abstention in Large Language Models**](https://arxiv.org/abs/2407.18418) and will be continuously updated.-->
 
 **NOTE 1**: The current order of papers follows the sequence in which they appear in our survey paper. Future papers will be added in chronological order.
 
-**NOTE 2**: We appreciate contributions. If you have any suggested papers, feel free to reach out to [chenjux@uw.edu](mailto:chenjux@uw.edu) or submit a pull request.
+<!--**NOTE 2**: We appreciate contributions. If you have any suggested papers, feel free to reach out to [chenjux@uw.edu](mailto:chenjux@uw.edu) or submit a pull request.-->
 
 <p align="center">
     <img src="abstention.png" width="90%" style="align:center;"/>
@@ -618,7 +618,7 @@ The repository is part of our survey paper [**Know Your Limits: A Survey of Abst
   [Paper](https://www.arxiv.org/abs/2407.12043) | [GitHub](https://github.com/allenai/noncompliance)  
 
 
-## Citation
+<!--## Citation
 If you find this repository useful, please cite the following paper:
 ```
 @article{wen2024know,
