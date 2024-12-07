@@ -52,7 +52,7 @@
 ## Pretraining
 
 ## Alignment
-<h3 id="alignment">Supervised Finetuning</h3>
+<h3 id="alignment-instruction-tuning">Supervised Finetuning</h3>
 
 - **Alignment for Honesty**  
   **Conference**: NeurIPS 2024  
