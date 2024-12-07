@@ -27,7 +27,7 @@
 - [Pretraining](#pretraining)
 
 - [Alignment](#alignment)
-  - [Instruction Tuning](#alignment-instruction-tuning)
+  - [Supervised Finetuning](#alignment-instruction-tuning)
   - [Learning from Preferences](#alignment-learning-from-preferences)
 - [Inference](#inference)
   - [Input-Processing](#inference-input-processing)
@@ -52,7 +52,7 @@
 ## Pretraining
 
 ## Alignment
-<h3 id="alignment">Instruction Tuning</h3>
+<h3 id="alignment">Supervised Finetuning</h3>
 
 - **Alignment for Honesty**  
   **Conference**: NeurIPS 2024  
