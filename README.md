@@ -16,7 +16,7 @@
 <!--**NOTE 2**: We appreciate contributions. If you have any suggested papers, feel free to reach out to [chenjux@uw.edu](mailto:chenjux@uw.edu) or submit a pull request.-->
 
 <p align="center">
-    <img src="abstention1.png" width="90%" style="align:center;"/>
+    <img src="abstention.png" width="90%" style="align:center;"/>
 </p>
 
 
